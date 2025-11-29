@@ -5,7 +5,7 @@
 
 💻 Passionate Full Stack Developer with strong hands-on experience in MERN stack, APIs, and scalable systems
 
-🔍 Proficient in DSA (100+ LeetCode problems) and problem-solving
+🔍 Proficient in DSA (175+ LeetCode problems) and problem-solving
 
 🧠 Experienced in AI integration, project architecture, and modern web frameworks
 
