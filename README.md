@@ -5,7 +5,7 @@
 
 💻 Passionate Full Stack Developer with strong hands-on experience in MERN stack, APIs, and scalable systems
 
-🔍 Proficient in DSA (175+ LeetCode problems) and problem-solving
+🔍 Proficient in DSA (200+ LeetCode problems) and problem-solving
 
 🧠 Experienced in AI integration, project architecture, and modern web frameworks
 
@@ -27,7 +27,7 @@ Real-time video conferencing app with chat, screen sharing, and user authenticat
 Hotel booking platform with dual Host/User panels, property listings, and secure authentication.
 ⚙️ Built on MVC architecture using Express, MongoDB, and EJS.
 
-🛒 Thok-Bazar
+🛒 Thok-Bazar || SAAS Platform
 
 E-commerce app with User, Seller, and Admin dashboards.
 💰 Integrated payments, product management, and analytics dashboards.
