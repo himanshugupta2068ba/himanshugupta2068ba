@@ -16,13 +16,12 @@
 🧩 Technical Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,bootstrap,tailwind,git,github,vscode,docker,c,cpp,python" /> </p>
 🛠 Projects
-🧑‍💻 HimxMeet
- | MERN + WebRTC
+🧑‍💻 HimxMeet (Clone of Google Meet)
 
 Real-time video conferencing app with chat, screen sharing, and user authentication.
 🚀 Built peer connections, signaling, and session handling using WebRTC + Node.js.
 
-🏨 TripSync
+🏨 TripSync (Clone of Airnb)
 
 Hotel booking platform with dual Host/User panels, property listings, and secure authentication.
 ⚙️ Built on MVC architecture using Express, MongoDB, and EJS.
