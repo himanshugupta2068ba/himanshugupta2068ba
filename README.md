@@ -16,8 +16,6 @@
 
 🧠 Experienced in AI integration, project architecture, and modern web frameworks  
 
-💼 Intern at Instaprep AI — built production-grade modules using React.js, Tailwind, and REST APIs  
-
 🚀 Love working on real-world projects, hackathons, and building tech that scales  
 
 ---
